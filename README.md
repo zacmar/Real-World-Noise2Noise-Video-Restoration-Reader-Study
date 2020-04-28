@@ -3,8 +3,8 @@ This repository contains the code and supplementary material that was used to co
 
 
 ```
-git clone https://github.com/zacmar/Real-World-Noise2Noise-Video-Restoration-Reader-Study.git
-cd Real-World-Noise2Noise-Video-Restoration-Reader-Study/ui
+git clone https://github.com/zacmar/restoration-reader-study.git
+cd restoration-reader-study/ui
 python ui.py
 ```
 
